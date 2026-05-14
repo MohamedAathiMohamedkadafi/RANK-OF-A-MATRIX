@@ -14,6 +14,7 @@ create a matrix using np.arrary
 End the program 
 ## Program:
 <img width="712" height="47" alt="Screenshot 2026-05-14 105235" src="https://github.com/user-attachments/assets/8cb606fa-3ef9-41f2-a50c-eb54ab7bad4c" />
+
 ```
 import numpy as np
 
@@ -22,6 +23,7 @@ A =np.array([[3,2,5],[1,1,2],[3,3,6]])
 rank = np.linalg.matrix_rank(A)
 
 print(rank)
+
 ```
 
 
